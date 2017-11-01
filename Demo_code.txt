@@ -29,6 +29,7 @@ namespace Inherit
             Console.WriteLine("There are Many Modes of Transport !!");
         }
     }
+//Demo fix
     class vehicle : Mode
     {
         public void feature()
