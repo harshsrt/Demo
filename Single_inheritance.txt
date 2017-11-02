@@ -18,6 +18,7 @@ namespace Inheritance
             s.Teach();
             Console.ReadKey();
         }
+//jsdjsdhn
         class Teacher
         {
             public void Teach()
