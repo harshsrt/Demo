@@ -22,6 +22,7 @@ namespace Inherit
             Console.Read();
         }
     }
+//Demo change
     class Mode
     {
         public void mode()
